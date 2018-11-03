@@ -1,16 +1,16 @@
-OpenBve�pATS�v���O�C���\�[�X�R�[�h�e���v���[�gReadme
+﻿OpenBve用ATSプラグインソースコードテンプレートReadme
 
-������́AOpenBve�p�̃v���O�C���̃\�[�X�R�[�h�e���v���[�g�ƂȂ�܂��BBVE TrainSim�ɂ͎g�p�ł��܂���B
-�\�[�X�R�[�h��C#�ƂȂ��Ă��܂��B�r���h�ɂ́AProgram.cs�Ɠ����K�w��OpenBveApi.dll���K�v�ł��BOpenBve��������������ė��Ă��������B
-Cpp.cs�̒��ɂ�mackoy���̃T���v���v���O�C���ɋɗ͋߂Â����\�[�X�R�[�h��ݒu���Ă��܂��B
+こちらは、OpenBve用のプラグインのソースコードテンプレートとなります。BVE TrainSimには使用できません。
+ソースコードはC#となっています。ビルドには、Program.csと同じ階層にOpenBveApi.dllが必要です。OpenBve等から引っ張って来てください。
+Cpp.csの中にはmackoy氏のサンプルプラグインに極力近づけたソースコードを設置しています。
 
-������̃\�[�X�R�[�h��CC0�A�܂莩�R�ɉ��ω��H�Ĕz�z�����\�ł��B
+こちらのソースコードはCC0、つまり自由に改変加工再配布等が可能です。
 
 Special thanks 
-S520�l
-�Q��}�s���81���l
-TR�l
+S520様
+寝台急行銀河81号様
+TR様
 
-���� ������
+製作 あすく
 
-�A����:Email ed757001@gmail.com Twitter @Asked757001
+連絡先:Email ed757001@gmail.com Twitter @Asked757001
